@@ -40,9 +40,10 @@ Website installation:
 2.  Give the website an Alias.  We suggest 'Attestation'
 3.  For Configuration, click the drop-down menu and select 'Import from a file' and select the configuration file included in this download 'Attestation Configuration(8.2)'
 
-**IMPORTANT!!**  Prior to modifying any settings, it is important to make sure the newly imported workflows are disabled.  If they aren't, simply select the workflows inside the Attestation Engine folder, right click and disable.  This prevents anything from running before you're ready to push this functionality to a wider audience.
 
 Active Roles Configuration:
+**IMPORTANT!!**  Prior to modifying any settings, it is important to make sure the newly imported workflows are disabled.  If they aren't, simply select the workflows inside the Attestation Engine folder, right click and disable.  This prevents anything from running before you're ready to push this functionality to a wider audience.
+
 1. Import the add-on manager package by either double-click on it on the server that hosts Active Roles, or open the Add-On manager and import the package.
 2.  After importing the package via Add-On Manager, begin by verifying the successful import of all the objects listed above.  Navigate to the new web interface as any AR user which should be https://YOURSERVER/Attestation
 3.  Review the following explanations of the workflows and their purpose before configuring the workflows and replace the placeholders so that the attestation works in the way you want it to.
