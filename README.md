@@ -1,7 +1,7 @@
 # Active Roles Attestation Readme
 ## Attestation Functionality for One Identity Active Roles
 
-Add basic group membership attestation functionality to Active Roles!  This package uses a combination of workflows, virtual attributes, and customized web interfaces to achieve this.  Everything in this package is done using built-in functionality, which means that it is fully supported by One Identity.  There is no custom coding!  Please read instructions fully prior to installing anything.
+Add basic group membership attestation functionality to Active Roles! This package uses a combination of workflows, virtual attributes, and customized web interfaces to achieve this. Everything in this package is done using built-in functionality with no custom coding required, but do note that this solution is provided "as is" and outside the scope of One Identity Support. Please read instructions fully prior to installing anything.
 
 # Objects Imported
 ## Virtual Attributes:
